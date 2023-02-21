@@ -1,0 +1,32 @@
+{
+    "Rice_Brown_Spot":[
+        "Avoid excess Nitrogenous fertilizer"
+    ],
+    "Rice_Healthy":[
+        "No need of any medication"
+    ],
+    "Rice_Bacterial_Leaf":[
+        "Use balanced amounts of plant nutrients, Ensure good drainage of fields, Keep fields clean, Remove weed hosts which can serve as  host of bacteria"
+    ],
+    "Rice_Leaf_Blast":[
+        "Grow rice in open fields free of tree lines particularly on east and south sides,Seed over a range of time to spread the heading dates. However, avoid planting late because blast will be more severe, Use fungicides"
+    ],
+    "Wheat_Healthy":[
+        "No need of any medication"
+    ],
+    "Wheat_Stripe_Rust":[
+        "seed treatment, using of fungicides,variety selection"
+    ],
+    "Corn__Healthy":[
+        "No need of any medication"
+    ],
+    "Corn_Common_Rust":[
+        "Maize rusts are generally controlled by the use of resistant maize hybrids, and by foliar applications of fungicides on sweet corn,fungicides like chlorothalonil and mancozeb,rotating crops"
+    ],
+    "Corn_Gray_Leaf_Spot":[
+        "Fungicides like Daconil Ultrex,Daconil Weatherstik, Action fungicides is recommended"
+    ],
+    "Corn_Leaf_Blight":[
+        "Select Resistant Hybrid, Manage Residue, Use Appropriate fertilizers ,Follow proper tillage to reduce fungus inoculum from crop debris, Follow crop rotation with non host crop "
+    ]
+}
